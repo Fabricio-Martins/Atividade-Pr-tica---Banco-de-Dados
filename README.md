@@ -1,4 +1,4 @@
-# Atividade-Pr-tica---Banco-de-Dados
+# Atividade_Pratica-BD
 
 Esta atividade se resume a criação de um Banco de Dados passo a passo, na seguinte ordem:
 
@@ -6,3 +6,5 @@ Esta atividade se resume a criação de um Banco de Dados passo a passo, na segu
 2- Modelo Relacional;
 3- Dados das Tabelas;
 4- Consultas SQL.
+
+Meu tema escolhido foi uma Empresa de Jogos, tendo como influência a Blizzard Entertaiment.
